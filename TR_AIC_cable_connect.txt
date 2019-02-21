@@ -1,0 +1,15 @@
+TR AIC card :
+ 
+a.     Connect from AIC card header  JB2 -22,24,26,28 & 30th Pin to RVP header  J9H1 -  1,3,5,7 & 9th  pin.
+b.     Connect from AIC card header JB1  -  1,2,3 & 4th Pin to RVP header  -  J9J2  -  1,2,3 & 4th pin these pins are to be connected one to one.
+c.      Connect from AIC card J5 header  -  RTD3 PIN to the RVP header J3E2  -  2nd pin.
+ 
+ 
+TR TBT AIC      RVP
+JB2.1        J9H1.4
+JB2.3        J9H1.6
+JB2.5        J9H1.8
+JB2.7        J9J1.1
+JB2.14      J9H1.10
+These are the additional connections for Type-C specific
+
